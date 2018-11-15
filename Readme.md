@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/OptionalCellTemplates/Default.aspx) (VB: [Default.aspx](./VB/OptionalCellTemplates/Default.aspx))
+* [Default.aspx.cs](./CS/OptionalCellTemplates/Default.aspx.cs) (VB: [Default.aspx](./VB/OptionalCellTemplates/Default.aspx))
+<!-- default file list end -->
 # How to define a cell template that is visible or hidden, based on the node it belongs to
 
 
